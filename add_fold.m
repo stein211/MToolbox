@@ -1,1 +1,2 @@
-function add_fold()
+func
+func2
